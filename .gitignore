@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/*.json
+outputs/
+work/
+.env
+.env.*
+!.env.example
+*.local
