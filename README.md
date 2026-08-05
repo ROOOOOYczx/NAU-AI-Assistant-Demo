@@ -174,4 +174,4 @@ pnpm run build
 
 ## License
 
-当前项目仅用于课程、竞赛和 Demo 展示，暂未设置开源许可证。
+本项目采用 [MIT License](./LICENSE) 开源。你可以自由使用、修改和再发布本项目，但请保留原许可证和版权声明。
